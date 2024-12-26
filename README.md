@@ -1,26 +1,33 @@
-# 👋 Hi, I'm @RoOster214
+👋 Hi, I'm @RoOster214
+About Me
 
-## About Me
-- 🎓 Currently pursuing an AAS in Computer Technology with Programming Specialization
-- 📚 Starting Harvard's CS50 course to build a strong CS foundation
-- 💻 Aspiring Software Engineer with a focus on full-stack development
-- 🌱 Currently learning: HTML, CSS, and programming fundamentals
+🎓 Pursuing an AAS in Computer Technology with a Specialization in AI and Machine Learning
+📚 Diving into Harvard's CS50 course to build a strong computational and algorithmic foundation
+💻 Aspiring AI Engineer with a passion for machine learning and intelligent systems
+🌱 Currently exploring: Python, TensorFlow, and foundational ML concepts
 
-## Learning Journey
-- 📖 Beginning my tech journey in 2024
-- 🎯 Goals: Building a strong foundation in software development
-- 📈 Tracking my progress through projects and certifications
+Learning Journey
 
-## Current Focus
-- 🔭 Working on: Learning web development basics
-- 📝 Planning to build: Personal portfolio website
-- 🤝 Open to: Connecting with other beginners and mentors
+📖 Embarking on a tech journey focused on artificial intelligence in 2024
+🎯 Goals: Developing expertise in machine learning, neural networks, and AI technologies
+📈 Tracking progress through AI/ML projects, research, and certifications
 
-## Connect With Me
-- 🔗 LinkedIn: [Coming Soon]
-- 📫 Email: [Your professional email if you want to share]
+Current Focus
 
-⚡ Fun fact: [Add something unique about yourself]
+🔭 Working on: Building foundational machine learning skills
+📝 Planning to develop:
 
----
-*"Every expert was once a beginner." - Building my path in software engineering one commit at a time.*
+Personal ML project showcasing data analysis and predictive modeling
+Neural network implementation from scratch
+
+
+🤝 Open to: Connecting with AI enthusiasts, researchers, and mentors in the field
+
+Connect With Me
+
+🔗 LinkedIn: [Coming Soon]
+📫 Email: justinsh214@outlook.com
+🤖 AI Interests: Deep learning, computer vision, natural language processing
+
+⚡ Fun fact: Fascinated by how machines can learn and adapt like human intelligence.
+"In the realm of AI, every algorithm is a step towards understanding intelligence." - Transforming theoretical concepts into practical innovations, one model at a time.
