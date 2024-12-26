@@ -2,22 +2,29 @@
 About Me
 
 🎓 Pursuing an AAS in Computer Technology with a Specialization in AI and Machine Learning
+
 📚 Diving into Harvard's CS50 course to build a strong computational and algorithmic foundation
+
 💻 Aspiring AI Engineer with a passion for machine learning and intelligent systems
+
 🌱 Currently exploring: Python, TensorFlow, and foundational ML concepts
 
 Learning Journey
 
 📖 Embarking on a tech journey focused on artificial intelligence in 2024
+
 🎯 Goals: Developing expertise in machine learning, neural networks, and AI technologies
+
 📈 Tracking progress through AI/ML projects, research, and certifications
 
 Current Focus
 
 🔭 Working on: Building foundational machine learning skills
+
 📝 Planning to develop:
 
 Personal ML project showcasing data analysis and predictive modeling
+
 Neural network implementation from scratch
 
 
