@@ -1,4 +1,4 @@
-👋 Hi, I'm @RoOster214
+Hi, I'm @RoOster214
 
 
 Pursuing a Bachelor's at Winthrop in Computer Science with a Specialization in AI and Machine Learning.
