@@ -13,5 +13,5 @@ About Me
 📫 Email: justinsh214@outlook.com
 🤖 AI Interests: Deep learning, computer vision, natural language processing
 
-⚡ Fun fact: Fascinated by how machines can learn and adapt like human intelligence.
-"In the realm of AI, every algorithm is a step towards understanding intelligence." - Transforming theoretical concepts into practical innovations, one model at a time.
+⚡  Fascinated by how machines can learn and adapt like human intelligence.
+"In the realm of AI, every algorithm is a step towards understanding intelligence." Transforming theoretical concepts into practical innovations, one at a time.
