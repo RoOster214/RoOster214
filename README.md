@@ -1,7 +1,7 @@
 👋 Hi, I'm @RoOster214
-About Me
 
-🎓 Pursuing a Bachelor's at Winthrop in Computer Science with a Specialization in AI and Machine Learning.
+
+Pursuing a Bachelor's at Winthrop in Computer Science with a Specialization in AI and Machine Learning.
 
 📚 Diving into Harvard's CS50 course to build a strong computational and algorithmic foundation
 
@@ -9,8 +9,7 @@ About Me
 
 🌱 Currently exploring: Python, TensorFlow, and foundational ML concepts
 
-
-📫 Email: justinsh214@outlook.com
+Email: justinsh214@outlook.com
 🤖 AI Interests: Deep learning, computer vision, natural language processing
 
 ⚡  Fascinated by how machines can learn and adapt like human intelligence.
